@@ -4,3 +4,6 @@
 [submodule "sw"]
 	path = sw
 	url = https://github.com/Digilent/Nexys-A7-SW.git
+[submodule "os"]
+	path = os
+	url = https://github.com/Digilent/Nexys-A7-OS.git
