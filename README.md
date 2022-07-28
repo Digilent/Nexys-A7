@@ -40,6 +40,7 @@ Some demos do not require some submodules, in these cases, they are still provid
 | Submodule | Used by this demo |
 |-----------|-------------------|
 | HW        | Yes         |
+| OS        | No         |
 | SW        | No         |
 
 This demo was moved into this repository during 2020.1 updates. Its history prior to these updates can be found in its old repository, linked below:
@@ -50,7 +51,7 @@ This demo was moved into this repository during 2020.1 updates. Its history prio
 The following are required for use of this demo. For more information on how to get any hardware or software you may be missing, see the Demo Page, linked above.
 
 * Nexys A7-50T
-* Vivado 2020.1 Installation
+* Vivado 2021.1 Installation
 * Serial Terminal Emulator
 * MicroUSB Cable
 * Headphones/Speaker
